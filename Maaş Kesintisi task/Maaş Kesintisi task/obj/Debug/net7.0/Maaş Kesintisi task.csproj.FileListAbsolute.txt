@@ -1,0 +1,15 @@
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/bin/Debug/net7.0/Maaş Kesintisi task
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/bin/Debug/net7.0/Maaş Kesintisi task.deps.json
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/bin/Debug/net7.0/Maaş Kesintisi task.runtimeconfig.json
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/bin/Debug/net7.0/Maaş Kesintisi task.dll
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/bin/Debug/net7.0/Maaş Kesintisi task.pdb
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/obj/Debug/net7.0/Maaş Kesintisi task.csproj.AssemblyReference.cache
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/obj/Debug/net7.0/Maaş Kesintisi task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/obj/Debug/net7.0/Maaş Kesintisi task.AssemblyInfoInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/obj/Debug/net7.0/Maaş Kesintisi task.AssemblyInfo.cs
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/obj/Debug/net7.0/Maaş Kesintisi task.csproj.CoreCompileInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/obj/Debug/net7.0/Maaş Kesintisi task.dll
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/obj/Debug/net7.0/refint/Maaş Kesintisi task.dll
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/obj/Debug/net7.0/Maaş Kesintisi task.pdb
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/obj/Debug/net7.0/Maaş Kesintisi task.genruntimeconfig.cache
+/Users/zairovv/Desktop/IT brains tasks/Maaş Kesintisi task/Maaş Kesintisi task/obj/Debug/net7.0/ref/Maaş Kesintisi task.dll
